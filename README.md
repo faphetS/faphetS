@@ -7,7 +7,7 @@
 
 
 
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:justing0210@gmail.com)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=justing0210@gmail.com)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/justingarcia0210)
 
 ## 📊 GitHub Stats  
