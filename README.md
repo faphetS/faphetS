@@ -2,14 +2,14 @@
 **`Information Technology graduate`**
 
 - Recent graduate in Information Technology specializing in JavaScript/TypeScript technologies.  
-- Focused on building applications with React, Node.js, Express, and SQL.  
+- Focused on building applications with React & Node.js/Express.  
 - Currently working towards becoming a Full Stack Developer / Software Engineer.
 
 
-<!--
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:yourmail@gmail.com)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/your-link)
--->
+
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:justing0210@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/justingarcia0210)
+
 ## 📊 GitHub Stats  
 <p align="left">
    <img src="https://streak-stats.demolab.com?user=faphetS&theme=tokyonight" height="150" width="400" alt="streak graph" />
